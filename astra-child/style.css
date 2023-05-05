@@ -1,0 +1,29 @@
+/** 
+*Theme Name:Astra Child
+*Description:Astra child Theme
+*Author:Nimesh VM
+*Template:astra
+*
+*/
+.text-column{
+    padding: 20px 0px;
+}
+
+/* quick add post style */
+
+.quick-add-form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    background: rgb(194, 194, 194);
+    padding: 50px;
+}
+.quick-add-form h2{
+    color: rgb(247, 247, 247);
+
+}
+
+.quick-add-form input[type=text], textarea{
+    width: 100%;
+    color: black;
+}
